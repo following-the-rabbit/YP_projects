@@ -4,7 +4,7 @@
 
 
 | № | **Наименование проекта** | **Jupyter Notebook** | **Описание проекта** | **Стек** |  
-|:--|:-----------|:---------------------|:-------------|:---------------------------------------|  
+|:--|:-----------|:-------------------|:-------------|:---------------------------|  
 | 1 | [**Базовый Python**](https://github.com/following-the-rabbit/YP_projects/blob/main/01_Base_Python/README.md) | [notebook](https://nbviewer.org/github/following-the-rabbit/YP_projects/blob/main/01_Base_Python/big_cities_music_research.ipynb) | Исследование музыки больших городов на основе данных Яндекс.Музыка | - python<br>- pandas |
 | 2 | [**Предобработка данных**](https://github.com/following-the-rabbit/YP_projects/blob/main/02_Data_Preprocessing/README.md) | [notebook](https://nbviewer.org/github/following-the-rabbit/YP_projects/blob/main/02_Data_Preprocessing/borrower_reliability_research.ipynb) | Исследование надежности заемщиков | - python<br>- pandas |
 | 3 | [**Исследовательский анализ данных**](https://github.com/following-the-rabbit/YP_projects/blob/main/03_Exploratory_Data_Analysis/README.md) | [notebook](https://nbviewer.org/github/following-the-rabbit/YP_projects/blob/main/03_Exploratory_Data_Analysis/apartment_sales_research.ipynb) | Исследование объявлений о продаже квартир | - python<br>- pandas<br>- matplotlib |  
